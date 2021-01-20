@@ -1,3 +1,6 @@
+## OUTDATED and BAD
+## SEE https://github.com/louismeunier/mechgroupbuys-api-wrapper FOR A BETTER VERSION
+
 # mechgroupbuys api
 
 An API wrapper of www.mechgroupbuys.com currently located at https://us-central1-mechgroupbuysapi.cloudfunctions.net/app/. Currently *very* rough and quickly put together.
